@@ -2,12 +2,12 @@
 
 <br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-FF9900?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-66CC99?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JQuery-3766AB?style=flat-square&logo=JQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-3766AB?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-a8b8cc?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-e5ba1f?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JQuery-13b38a?style=flat-square&logo=JQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6cb33f?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-db3552?style=flat-square&logo=Oracle&logoColor=white"/>
 
 <!--
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
