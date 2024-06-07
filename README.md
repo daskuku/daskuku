@@ -13,7 +13,9 @@
 <img src="https://img.shields.io/badge/JQuery-13b38a?style=flat-square&logo=JQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6cb33f?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-db3552?style=flat-square&logo=Oracle&logoColor=white"/>
-  
+
+<br><br>
+<Strong>📧Email📧</Strong><br>wang601@naver.com<br>
 </p>
 
 <Strong>📧Email📧</Strong><br>wang601@naver.com<br>
