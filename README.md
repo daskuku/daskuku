@@ -18,8 +18,6 @@
 <Strong>📧Email📧</Strong><br>wang601@naver.com<br>
 </p>
 
-<Strong>📧Email📧</Strong><br>wang601@naver.com<br>
-
 
 - 🎓 I graduated from Dongyang Mirae University.
 - 🌱 I’m currently learning Web full stack.
