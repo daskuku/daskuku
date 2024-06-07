@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=100)
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=footer&text=JaeDeokWang&fontSize=100)
+
 
 <!--
 **daskuku/daskuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
