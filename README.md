@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=footer&text=JaeDeokWang&fontSize=100)
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">⚒️Tech Stack⚒️</h3>
 
 <p align="center"> Techs that I've used at leat once </p>
 
