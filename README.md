@@ -21,5 +21,5 @@
 
 - 🎓 I graduated from Dongyang Mirae University.
 - 🌱 I’m currently learning Web full stack.
-- 😄 My hobby is skiing and gaming.
+- 😄 My hobbies are skiing and gaming.
 
