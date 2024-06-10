@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=footer&text=Hello!!&nbspI'm&nbspJaeDeok&nbspWang&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=footer&text=Hello!!&fontSize=80)
 
 <h3 align="center">⚒️Tech Stack⚒️</h3>
 
